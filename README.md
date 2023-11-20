@@ -7,14 +7,17 @@ Develop a simple web application that allows users to create and share a 10-pane
     - ReactJS
     - Axios
     - Tailwind
-### features 
-    - Begin your comic creation by clicking the 'Add a comic' button.
-    - Generate an image based on your provided prompt to kickstart your comic.
-    - Add dialogue and captions to your comic by entering text for the speech bubbles.
-    - Choose the desired speech bubble type from the available options.
-    - Arrange and position the speech bubbles on your comic card as per your preference.
-    - Perfect the composition of your comic by adjusting the placement to your liking.
-    - Experience the joy of using the comic creator app.
+### Features 
+- Begin your comic creation by clicking the 'Add a comic' button.
+- Generate an image based on your provided prompt to kickstart your comic.
+- Add dialogue and captions to your comic by entering text for the speech bubbles.
+- Choose the desired speech bubble type from the available options.
+- **Arrange and position the speech bubbles on your comic card as per your preference**
+- Experience the joy of using the comic creator app.
+### How to run on local computer 
+   - npm install
+   - npm run dev
+   
 ### **Key Requirements:**
 
 1. **User Interface:**
